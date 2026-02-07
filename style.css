@@ -67,9 +67,9 @@
     font-size: 15px;
 }
 .birthday-img {
-    width: 180px;
+    width: 200px;
     height: auto;
-    align-self: center; /* fixes flex weirdness */
+    align-self: end; /* fixes flex weirdness */
     margin: 15px 0;
 }
 
