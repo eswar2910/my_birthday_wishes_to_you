@@ -67,7 +67,8 @@
     font-size: 15px;
 }
 .birthday-img {
-    width: 220px;
+    width: 70%;
+    max-width:250px;
     height: auto;
     align-self:flex-end; /* fixes flex weirdness */
     margin: 15px 0;
