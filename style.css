@@ -22,7 +22,7 @@
 .login{
    background-color:transparent;
    padding: 0px 100px;
- height:70vh; 
+   height:70vh; 
    
    border-radius: 30px;
 
@@ -30,7 +30,7 @@
    border: 2px solid white;
    backdrop-filter: blur(3px);
    transition:box-shadow 0.3s ;
-    /* scale:0.8; */
+     scale:0.8; 
     
 
    
@@ -49,6 +49,7 @@
    }
     .login:hover{
         box-shadow: 0 0 15px greenyellow;
+          scale: 1.02; 
         
     }
   #details input{
