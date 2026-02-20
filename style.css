@@ -22,8 +22,10 @@
 .login{
    background-color:transparent;
    padding: 0px 100px;
-   height:600px;
+   height:70vh;
+   width:54vw;
    border-radius: 30px;
+
    
    border: 2px solid white;
    backdrop-filter: blur(3px);
