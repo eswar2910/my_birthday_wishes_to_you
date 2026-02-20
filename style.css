@@ -23,12 +23,13 @@
 .login{
    background-color:transparent;
    padding: 0px 100px;
-   height: 500px;
+   height: 70vh;
    border-radius: 30px;
    
    border: 2px solid white;
    backdrop-filter: blur(3px);
    transition:box-shadow 0.3s ;
+    width:54vw;
 
    
    } 
