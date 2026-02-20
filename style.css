@@ -22,13 +22,14 @@
 .login{
    background-color:transparent;
    padding: 0px 100px;
-   height: 70vh;
+   height:500px;
    border-radius: 30px;
    
    border: 2px solid white;
    backdrop-filter: blur(3px);
    transition:box-shadow 0.3s ;
-    width:54vw;
+    scale:0.8;
+    
 
    
    } 
@@ -46,6 +47,7 @@
    }
     .login:hover{
         box-shadow: 0 0 15px greenyellow;
+        
     }
   #details input{
  
